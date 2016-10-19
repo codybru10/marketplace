@@ -2,7 +2,11 @@ h1 {
   text-align: center;
 }
 
-#checkout {
+.fontStyling {
   margin: 0% 20%;
   font-size: 20px;
+}
+
+#completion {
+  display: none;
 }
